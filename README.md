@@ -27,5 +27,5 @@ This is a simple and responsive landing page built using only **HTML5** and **CS
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/amansingh2426/Intership-Task1.git
+   git clone https://github.com/amansingh2426/Internship-Task1.git
 
