@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/7dea689e-cf95-4537-9a64-43f091f3220c)
+
 # Intership-Task1
 # 🌐 Responsive Landing Page (HTML + CSS)
 
